@@ -5,6 +5,17 @@
 
 ### Quickstart
 
+***Install***
+```bash
+
+# pip
+pip install vaccinegov 
+
+# poetry
+poetry add vaccinegov
+
+```
+
 ***Initialize***
 ```python
 >>> import vaccinegov
